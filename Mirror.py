@@ -1,0 +1,5 @@
+print("End of year task for Mr. Pennebackers class:")
+print("-Create two programs in Python")
+print("-Create two programs in Java that do identical things")
+print("-Analyze and compare end result, process, and language differences")
+print("NOTE: Must be somewhat complex, such as fibonacci sequence usage. Experiment with it")
